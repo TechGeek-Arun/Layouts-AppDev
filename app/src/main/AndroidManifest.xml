@@ -15,7 +15,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
           <activity android:name=".RelativeLoginActivity">
-          
+          <activity android:name=".OpenDialPadActivity">
         </activity>
     </application>
     <uses-permission android:name="android.permission.CALL_PHONE" />
