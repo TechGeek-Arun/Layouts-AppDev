@@ -88,7 +88,7 @@ android:editable="false"
             android:id="@+id/button1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight=".33"
+            android:layout_weight=".25"
             android:text="@string/button1"
             android:textSize="25sp" />
 
@@ -96,7 +96,7 @@ android:editable="false"
             android:id="@+id/button2"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight=".33"
+            android:layout_weight=".255"
             android:text="@string/button2"
             android:textSize="25sp" />
 
@@ -104,7 +104,7 @@ android:editable="false"
             android:id="@+id/button3"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight=".34"
+            android:layout_weight=".2"
             android:text="@string/button3"
             android:textSize="25sp" />
     </TableRow>
